@@ -1,0 +1,61 @@
+#home{
+    background-image: url("/images/chess_home.jpeg"); 
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 720px;
+}
+
+.nav-item{
+    font-size: 24px;
+    padding-left: 25px;
+    padding-right: 40px;
+    color: black;
+}
+
+#headline1{
+    font-size: 50px;
+    width: 50%;
+    margin-top: 20%;
+}
+.collapse{
+    margin-left: 8%;
+    color: black;
+}
+#learnChess{
+    background-image: url("/images/orangeBg.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 720px;
+}
+#learnChess1{
+    padding-top: 6%;
+}
+#btn{
+    width: 150px;
+    font-weight: 550;
+    font-size: 25px;
+    border-color: black;
+}
+#playChess{
+    background-image: url("/images/greenBg.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 720px;
+}
+#aboutUs{
+    background-image: url("/images/aboutUs.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 700px;
+}
+#contact{
+    background-image: url("/images/contact.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    height: 705px;
+}
